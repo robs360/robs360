@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/shahadat-nayem-6458b4238**
 
-- ⚡ Fun fact **I think i am not funny, i am serious and self-respectful person**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
