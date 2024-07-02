@@ -71,3 +71,5 @@ Live Site link: </br>
     <a href="https://tvlearn.web.app">
           TvLearn
    </a> </br>
+<h2>Languages I used</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robs360)](https://github.com/robs360/github-readme-stats)
