@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahadat Hossen Nayem</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - 🔭 <h3>I’m currently working on a project **name is Vector Flex it's a coaching website**</h3>
 
 - 👨‍💻 <h3>All of my projects are available at [https://www.linkedin.com/in/shahadat-nayem-6458b4238](https://www.linkedin.com/in/shahadat-nayem-6458b4238)</h3>
