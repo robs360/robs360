@@ -71,5 +71,6 @@ Live Site link: </br>
     <a href="https://tvlearn.web.app">
           TvLearn
    </a> </br>
-<h2>Languages I used</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robs360)](https://github.com/robs360/github-readme-stats)
+<h2>Daily Streak</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robs360&" alt="robs360" /></p>
+
