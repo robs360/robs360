@@ -9,7 +9,7 @@
 
 - 📫 <h3>How to reach me **https://www.linkedin.com/in/shahadat-nayem-6458b4238**</h3>
 
-  <h3>I think i am serious and self-respectful person</h3>h3>
+  <h3>I think i am serious and self-respectful person</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
