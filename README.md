@@ -22,7 +22,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <div style="display: flex; justify-content: center; margin-top: 200px;">
   <div style="flex: 1; max-width: 33%;">
-    <p align="left">
+    <p align="center">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       </a>
