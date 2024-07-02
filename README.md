@@ -1,4 +1,4 @@
-<img src="https://github.com/robs360/robs360/blob/main/logo%20git.jpeg" alt="logo" width="700" height="600">
+<img src="https://github.com/robs360/robs360/blob/main/logo%20git.jpeg" alt="logo" width="800" height="500">
 
 <h1 align="center">Hi 👋, I'm Shahadat Hossen Nayem</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
