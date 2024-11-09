@@ -89,6 +89,9 @@
   </table>
 </div>
 
-<h2>Daily Streak And Others</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robs360&" alt="robs360" /></p>
+<h2 align="center">Daily Streak and Others</h2>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robs360&" alt="robs360" />
+</div>
+
 
