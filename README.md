@@ -20,9 +20,9 @@
 </p>
 </br>
 <h3 style="margin-top: 30px;" align="center">Languages and Tools:</h3>
-<div style="display: flex; justify-content: center; margin-top: 200px;">
+<div style="display: flex; justify-content: center; margin-top: 28px;"> <!-- mt-7 is equivalent to approximately 28px -->
   <div style="flex: 1; max-width: 33%;">
-    <p align="center">
+    <p align="center" style="gap: 16px; display: flex; justify-content: center; flex-wrap: wrap;">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
       </a>
@@ -50,6 +50,8 @@
     </p>
   </div>
 </div>
+
+
 <h2 style="margin-top: 30px;" align="center" style="color: #4A90E2;">My Top 3 Repositories and Live Sites</h2>
 
 <div align="center">
