@@ -50,27 +50,45 @@
     </p>
   </div>
 </div>
-<h2 align="center">My Best 3 Repo Link And Their Live Site Link:</h2>
-repo link: </br>
-  <a href="https://github.com/robs360/catro-forum">
-        Catro Forum
-   </a> </br>
-     <a href="https://github.com/robs360/Job-hunting">
-        Job Hunting
-   </a> </br>
-    <a href="https://github.com/robs360/Tv-learn">
-        TvLearn
-   </a> </br>
-Live Site link: </br>
- <a href="https://cat-website-c0880.web.app">
-          catro-forum
-   </a> </br>
-    <a href="https://job-hunter-3fec4.web.app">
-          Job-Hunting
-   </a> </br>
-    <a href="https://tvlearn.web.app">
-          TvLearn
-   </a> </br>
+<h2 align="center" style="color: #4A90E2;">My Top 3 Repositories and Live Sites</h2>
+
+<div align="center">
+  <table style="border-collapse: collapse; width: 80%; margin: 0 auto; font-family: Arial, sans-serif;">
+    <tr style="background-color: #4A90E2; color: #FFFFFF;">
+      <th style="padding: 12px; border: 1px solid #dddddd;">Project</th>
+      <th style="padding: 12px; border: 1px solid #dddddd;">Repository Link</th>
+      <th style="padding: 12px; border: 1px solid #dddddd;">Live Site</th>
+    </tr>
+    <tr style="background-color: #F2F2F2; color: #333;">
+      <td style="padding: 10px; text-align: center; border: 1px solid #dddddd;">Catro Forum</td>
+      <td style="padding: 10px; text-align: center; border: 1px solid #dddddd;">
+        <a href="https://github.com/robs360/catro-forum" style="color: #4A90E2; text-decoration: none;">GitHub Repository</a>
+      </td>
+      <td style="padding: 10px; text-align: center; border: 1px solid #dddddd;">
+        <a href="https://cat-website-c0880.web.app" style="color: #4A90E2; text-decoration: none;">Live Site</a>
+      </td>
+    </tr>
+    <tr style="background-color: #FFFFFF; color: #333;">
+      <td style="padding: 10px; text-align: center; border: 1px solid #dddddd;">Job Hunting</td>
+      <td style="padding: 10px; text-align: center; border: 1px solid #dddddd;">
+        <a href="https://github.com/robs360/Job-hunting" style="color: #4A90E2; text-decoration: none;">GitHub Repository</a>
+      </td>
+      <td style="padding: 10px; text-align: center; border: 1px solid #dddddd;">
+        <a href="https://job-hunter-3fec4.web.app" style="color: #4A90E2; text-decoration: none;">Live Site</a>
+      </td>
+    </tr>
+    <tr style="background-color: #F2F2F2; color: #333;">
+      <td style="padding: 10px; text-align: center; border: 1px solid #dddddd;">TvLearn</td>
+      <td style="padding: 10px; text-align: center; border: 1px solid #dddddd;">
+        <a href="https://github.com/robs360/Tv-learn" style="color: #4A90E2; text-decoration: none;">GitHub Repository</a>
+      </td>
+      <td style="padding: 10px; text-align: center; border: 1px solid #dddddd;">
+        <a href="https://tvlearn.web.app" style="color: #4A90E2; text-decoration: none;">Live Site</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <h2>Daily Streak And Others</h2>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=robs360&" alt="robs360" /></p>
 
