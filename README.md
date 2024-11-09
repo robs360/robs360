@@ -19,7 +19,7 @@
 <a href="https://fb.com/https://www.facebook.com/shahadat.hossaen.71?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahadat.hossaen.71?mibextid=zbwkwl" height="30" width="40" /></a>
 </p>
 </br>
-<h3 align="center">Languages and Tools:</h3>
+<h3 style="margin-top: 30px;" align="center">Languages and Tools:</h3>
 <div style="display: flex; justify-content: center; margin-top: 200px;">
   <div style="flex: 1; max-width: 33%;">
     <p align="center">
@@ -50,7 +50,7 @@
     </p>
   </div>
 </div>
-<h2 align="center" style="color: #4A90E2;">My Top 3 Repositories and Live Sites</h2>
+<h2 style="margin-top: 30px;" align="center" style="color: #4A90E2;">My Top 3 Repositories and Live Sites</h2>
 
 <div align="center">
   <table style="border-collapse: collapse; width: 80%; margin: 0 auto; font-family: Arial, sans-serif;">
@@ -89,9 +89,10 @@
   </table>
 </div>
 
-<h2 align="center">Daily Streak and Others</h2>
+<h2  style="margin-top: 30px;" align="center">Daily Streak and Others</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=robs360&" alt="robs360" />
 </div>
+
 
 
