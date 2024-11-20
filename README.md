@@ -95,9 +95,42 @@
   </table>
 </div>
 
-<h2 style="margin-top: 30px;" align="center">Daily Streak and Others</h2>
+<h2 align="center" style="margin-top: 30px;">🌟 GitHub Stats and Streaks 🌟</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robs360&show_icons=true&theme=radical" alt="robs360" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=robs360&theme=radical" alt="robs360" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=robs360&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=robs360&theme=radical" alt="GitHub Streak" width="48%" />
+  
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robs360&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+
 </div>
+
+---
+
+<h2 align="center">📊 Dynamic Contribution Activity 📊</h2>
+
+<div align="center">
+  
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=robs360&theme=radical" alt="Contribution Graph" />
+  
+</div>
+
+---
+
+<h2 align="center">⚡ Fun GitHub Badges ⚡</h2>
+
+<div align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=robs360&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/robs360?label=Followers&style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/robs360?label=Stars&style=social" alt="Stars" />
+
+</div>
+
 
