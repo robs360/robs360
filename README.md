@@ -97,7 +97,7 @@
 
 <h2 align="center" style="margin-top: 30px;">🌟 GitHub Stats and Streaks 🌟</h2>
 
-<div align="center">
+<div align="right">
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=robs360&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
