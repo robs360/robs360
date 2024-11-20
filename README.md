@@ -97,5 +97,7 @@
 
 <h2 style="margin-top: 30px;" align="center">Daily Streak and Others</h2>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=robs360&" alt="robs360" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robs360&show_icons=true&theme=radical" alt="robs360" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=robs360&theme=radical" alt="robs360" />
 </div>
+
