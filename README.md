@@ -100,13 +100,11 @@
 <div align="right">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=robs360&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  
-  <!-- Streak Stats -->
  
+  <img src="https://github-readme-stats.vercel.app/api?username=robs360&show_icons=true&theme=radical" alt="GitHub Stats" height="200px" style="vertical-align:top;" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robs360&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robs360&layout=compact&theme=radical" alt="Top Languages" height="200px" style="vertical-align:top;" />
 
 </div>
 
