@@ -100,13 +100,17 @@
 <div align="center" style="width: 100%;">
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=robs360&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=robs360&show_icons=true&theme=radical" 
+       alt="GitHub Stats" style="width: 100%; height: 150px; margin-bottom: 10px;" />
   
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robs360&layout=compact&theme=radical" alt="Top Languages" style="width: 100%; margin-bottom: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robs360&layout=compact&theme=radical" 
+       alt="Top Languages" style="width: 100%; height: 150px; margin-bottom: 10px;" />
   
   <!-- Current Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=robs360&theme=radical" alt="GitHub Streak" style="width: 100%;" onerror="this.src='https://via.placeholder.com/200x100.png?text=Streak+Unavailable'" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=robs360&theme=radical" 
+       alt="GitHub Streak" style="width: 100%; height: 150px;" 
+       onerror="this.src='https://via.placeholder.com/200x100.png?text=Streak+Unavailable'" />
   
 </div>
 
