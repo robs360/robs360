@@ -1,4 +1,4 @@
-<img align="center" src="https://i.ibb.co/85MLy2M/what-is-github.png" alt="logo" width="100%" height="400">
+<img align="center" src="https://i.imgur.com/UzKnqQc.jpeg" alt="logo" width="100%" height="400">
 
 <h1 align="center">Hi 👋, I'm Shahadat Hossen Nayem</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
